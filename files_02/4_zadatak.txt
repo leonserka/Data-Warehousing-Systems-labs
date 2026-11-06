@@ -1,0 +1,4 @@
+﻿Iznos kupca C101 nije se promijenio i ostaje 125.50.
+NOT EXISTS sprječava unos kupca čija šifra već postoji. 
+U našoj PostgreSQL verziji istu svrhu ima ON CONFLICT (CustomerCode) DO NOTHING, 
+pa se zapis s iznosom 9000 preskače, a postojeći kupac ne ažurira.

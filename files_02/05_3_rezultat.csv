@@ -1,0 +1,6 @@
+sourcefilename,broj_kupaca,najmanji_iznos,najveci_iznos,ukupan_iznos
+Customer_01.csv,3,80.00,350.75,556.25
+Customer_02.json,2,99.90,200.00,299.90
+Customer_03.xml,2,500.00,625.25,1125.25
+Customer_04.csv,3,25.00,140.00,289.00
+Customer_05.json,1,210.00,210.00,210.00

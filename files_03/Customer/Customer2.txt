@@ -1,0 +1,6 @@
+﻿CustomerCode;CustomerName;PlaceName;RegionName
+C209;Nikola Šarić;Osijek;Osječko-baranjska županija
+C210;Tea Grgić;Varaždin;Varaždinska županija
+C211;Karlo Tomić;Zagreb;Grad Zagreb
+C212;Ema Perić;Split;Splitsko-dalmatinska županija
+C213;Petar Vuković;Rijeka;Primorsko-goranska županija

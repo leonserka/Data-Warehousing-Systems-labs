@@ -1,0 +1,14 @@
+[
+  {
+    "CustomerCode": "C104",
+    "CustomerName": "Luka Marić",
+    "CustomerAmount": "200",
+    "SalesDate": "2026-10-04"
+  },
+  {
+    "CustomerCode": "C105",
+    "CustomerName": "Mia Kovač",
+    "CustomerAmount": "99.90",
+    "SalesDate": "2026-10-05"
+  }
+]

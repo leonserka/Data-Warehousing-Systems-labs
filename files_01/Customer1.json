@@ -1,0 +1,26 @@
+[
+  {
+    "CustomerCode": "C001",
+    "CustomerName": "Ana Horvat",
+    "CustomerAmount": "1250.50",
+    "SalesDate": "2026-09-01"
+  },
+  {
+    "CustomerCode": "C002",
+    "CustomerName": "Ivan Babić",
+    "CustomerAmount": "50.00",
+    "SalesDate": "2026-09-02"
+  },
+  {
+    "CustomerCode": "C003",
+    "CustomerName": "Mia Kovač",
+    "CustomerAmount": "250.00",
+    "SalesDate": "2026-09-03"
+  },
+  {
+    "CustomerCode": "C004",
+    "CustomerName": "Luka Marić",
+    "CustomerAmount": "350,75",
+    "SalesDate": "2026-09-04"
+  }
+]

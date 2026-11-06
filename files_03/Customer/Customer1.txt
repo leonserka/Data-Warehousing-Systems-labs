@@ -1,0 +1,9 @@
+﻿CustomerCode;CustomerName;PlaceName;RegionName
+C201;Marko Kovač;Zagreb;Grad Zagreb
+C202;Ana Horvat;Split;Splitsko-dalmatinska županija
+C203;Ivan Babić;Rijeka;Primorsko-goranska županija
+C204;Petra Marić;Osijek;Osječko-baranjska županija
+C205;Luka Novak;Varaždin;Varaždinska županija
+C206;Iva Jurić;Zagreb;Grad Zagreb
+C207;Filip Kralj;Split;Splitsko-dalmatinska županija
+C208;Maja Božić;Rijeka;Primorsko-goranska županija

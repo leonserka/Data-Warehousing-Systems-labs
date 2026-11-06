@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<regions>
+  <region><Region>Bjelovarsko-bilogorska županija</Region><AdministrativeCenter>Bjelovar</AdministrativeCenter></region>
+  <region><Region>Brodsko-posavska županija</Region><AdministrativeCenter>Slavonski Brod</AdministrativeCenter></region>
+  <region><Region>Dubrovačko-neretvanska županija</Region><AdministrativeCenter>Dubrovnik</AdministrativeCenter></region>
+  <region><Region>Istarska županija</Region><AdministrativeCenter>Pazin</AdministrativeCenter></region>
+  <region><Region>Karlovačka županija</Region><AdministrativeCenter>Karlovac</AdministrativeCenter></region>
+  <region><Region>Koprivničko-križevačka županija</Region><AdministrativeCenter>Koprivnica</AdministrativeCenter></region>
+  <region><Region>Krapinsko-zagorska županija</Region><AdministrativeCenter>Krapina</AdministrativeCenter></region>
+  <region><Region>Ličko-senjska županija</Region><AdministrativeCenter>Gospić</AdministrativeCenter></region>
+  <region><Region>Međimurska županija</Region><AdministrativeCenter>Čakovec</AdministrativeCenter></region>
+  <region><Region>Osječko-baranjska županija</Region><AdministrativeCenter>Osijek</AdministrativeCenter></region>
+  <region><Region>Požeško-slavonska županija</Region><AdministrativeCenter>Požega</AdministrativeCenter></region>
+  <region><Region>Primorsko-goranska županija</Region><AdministrativeCenter>Rijeka</AdministrativeCenter></region>
+  <region><Region>Sisačko-moslavačka županija</Region><AdministrativeCenter>Sisak</AdministrativeCenter></region>
+  <region><Region>Splitsko-dalmatinska županija</Region><AdministrativeCenter>Split</AdministrativeCenter></region>
+  <region><Region>Šibensko-kninska županija</Region><AdministrativeCenter>Šibenik</AdministrativeCenter></region>
+  <region><Region>Varaždinska županija</Region><AdministrativeCenter>Varaždin</AdministrativeCenter></region>
+  <region><Region>Virovitičko-podravska županija</Region><AdministrativeCenter>Virovitica</AdministrativeCenter></region>
+  <region><Region>Vukovarsko-srijemska županija</Region><AdministrativeCenter>Vukovar</AdministrativeCenter></region>
+  <region><Region>Zadarska županija</Region><AdministrativeCenter>Zadar</AdministrativeCenter></region>
+  <region><Region>Zagrebačka županija</Region><AdministrativeCenter>Zagreb</AdministrativeCenter></region>
+  <region><Region>Grad Zagreb</Region><AdministrativeCenter>Zagreb</AdministrativeCenter></region>
+</regions>

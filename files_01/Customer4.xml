@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Customers>
+  <Customer>
+    <CustomerCode>C013</CustomerCode>
+    <CustomerName>Ivana Radić</CustomerName>
+    <CustomerAmount>420.50</CustomerAmount>
+    <SalesDate>2026-10-05</SalesDate>
+  </Customer>
+  <Customer>
+    <CustomerCode>C014</CustomerCode>
+    <CustomerName>Josip Šimić</CustomerName>
+    <CustomerAmount>875.00</CustomerAmount>
+    <SalesDate>2026-10-06</SalesDate>
+  </Customer>
+  <Customer>
+    <CustomerCode>C015</CustomerCode>
+    <CustomerName>Marina Kovač</CustomerName>
+    <CustomerAmount>315,75</CustomerAmount>
+    <SalesDate>2026-10-07</SalesDate>
+  </Customer>
+  <Customer>
+    <CustomerCode>C016</CustomerCode>
+    <CustomerName>Tomislav Jurić</CustomerName>
+    <CustomerAmount>1200.25</CustomerAmount>
+    <SalesDate>2026-10-08</SalesDate>
+  </Customer>
+</Customers>

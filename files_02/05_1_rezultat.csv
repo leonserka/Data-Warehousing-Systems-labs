@@ -1,0 +1,6 @@
+customercode,customername,customeramount,salesdate,sourcefilename
+C102,IVAN BABIĆ,350.75,2026-10-02,Customer_01.csv
+C104,LUKA MARIĆ,200.00,2026-10-04,Customer_02.json
+C106,JOSIP ŠIMIĆ,500.00,2026-10-06,Customer_03.xml
+C107,LUCIJA JURIĆ,625.25,2026-10-07,Customer_03.xml
+C111,TOMISLAV JURIĆ,210.00,2026-10-11,Customer_05.json

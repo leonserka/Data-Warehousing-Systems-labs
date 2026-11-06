@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<customers>
+  <customer>
+    <CustomerCode>C005</CustomerCode>
+    <CustomerName>Petra Jurić</CustomerName>
+    <CustomerAmount>890.00</CustomerAmount>
+    <SalesDate>2026-09-05</SalesDate>
+  </customer>
+  <customer>
+    <CustomerCode>C006</CustomerCode>
+    <CustomerName>Marko Novak</CustomerName>
+    <CustomerAmount>420.25</CustomerAmount>
+    <SalesDate>2026-09-06</SalesDate>
+  </customer>
+  <customer>
+    <CustomerCode>C007</CustomerCode>
+    <CustomerName>Ema Barišić</CustomerName>
+    <CustomerAmount>700.00</CustomerAmount>
+    <SalesDate>2026-09-07</SalesDate>
+  </customer>
+  <customer>
+    <CustomerCode>C008</CustomerCode>
+    <CustomerName>Nikola Radić</CustomerName>
+    <CustomerAmount>1320.40</CustomerAmount>
+    <SalesDate>2026-09-08</SalesDate>
+  </customer>
+</customers>

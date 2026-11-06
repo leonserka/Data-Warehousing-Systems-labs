@@ -1,0 +1,86 @@
+[
+  {
+    "Region": "Bjelovarsko-bilogorska županija",
+    "AdministrativeCenter": "Bjelovar"
+  },
+  {
+    "Region": "Brodsko-posavska županija",
+    "AdministrativeCenter": "Slavonski Brod"
+  },
+  {
+    "Region": "Dubrovačko-neretvanska županija",
+    "AdministrativeCenter": "Dubrovnik"
+  },
+  {
+    "Region": "Istarska županija",
+    "AdministrativeCenter": "Pazin"
+  },
+  {
+    "Region": "Karlovačka županija",
+    "AdministrativeCenter": "Karlovac"
+  },
+  {
+    "Region": "Koprivničko-križevačka županija",
+    "AdministrativeCenter": "Koprivnica"
+  },
+  {
+    "Region": "Krapinsko-zagorska županija",
+    "AdministrativeCenter": "Krapina"
+  },
+  {
+    "Region": "Ličko-senjska županija",
+    "AdministrativeCenter": "Gospić"
+  },
+  {
+    "Region": "Međimurska županija",
+    "AdministrativeCenter": "Čakovec"
+  },
+  {
+    "Region": "Osječko-baranjska županija",
+    "AdministrativeCenter": "Osijek"
+  },
+  {
+    "Region": "Požeško-slavonska županija",
+    "AdministrativeCenter": "Požega"
+  },
+  {
+    "Region": "Primorsko-goranska županija",
+    "AdministrativeCenter": "Rijeka"
+  },
+  {
+    "Region": "Sisačko-moslavačka županija",
+    "AdministrativeCenter": "Sisak"
+  },
+  {
+    "Region": "Splitsko-dalmatinska županija",
+    "AdministrativeCenter": "Split"
+  },
+  {
+    "Region": "Šibensko-kninska županija",
+    "AdministrativeCenter": "Šibenik"
+  },
+  {
+    "Region": "Varaždinska županija",
+    "AdministrativeCenter": "Varaždin"
+  },
+  {
+    "Region": "Virovitičko-podravska županija",
+    "AdministrativeCenter": "Virovitica"
+  },
+  {
+    "Region": "Vukovarsko-srijemska županija",
+    "AdministrativeCenter": "Vukovar"
+  },
+  {
+    "Region": "Zadarska županija",
+    "AdministrativeCenter": "Zadar"
+  },
+  {
+    "Region": "Zagrebačka županija",
+    "AdministrativeCenter": "Zagreb"
+  },
+  {
+    "Region": "Grad Zagreb",
+    "AdministrativeCenter": "Zagreb"
+  }
+]

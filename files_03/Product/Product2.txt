@@ -1,0 +1,6 @@
+ProductId;ProductName
+1;Tenisice
+2;Košulje
+3;Hlače
+4;Igračke
+5;Ruksaci
