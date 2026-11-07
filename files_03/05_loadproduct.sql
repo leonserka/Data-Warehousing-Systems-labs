@@ -24,8 +24,11 @@ $$;
 
 
 
-CALL etl.usp_loadproduct('E:/tatjana_labovi/files_03/Product/Product1.txt');
-CALL etl.usp_loadproduct('E:/tatjana_labovi/files_03/Product/Product2.txt');
+-- CALL etl.usp_loadproduct('E:/tatjana_labovi/files_03/Product/Product1.txt');
+-- CALL etl.usp_loadproduct('E:/tatjana_labovi/files_03/Product/Product2.txt');
+
+CALL etl.usp_loadproduct('D:/Data-Warehousing-Systems-labs/files_03/Product/Product1.txt');
+CALL etl.usp_loadproduct('D:/Data-Warehousing-Systems-labs/files_03/Product/Product2.txt');
 
 SELECT productid, productname
 FROM dbo.dimproduct
