@@ -1,0 +1,121 @@
+[
+  {
+    "salesdate": "2026-10-01",
+    "personid": 1,
+    "productid": 1,
+    "customercode": "C201",
+    "salesamount": "200.00"
+  },
+  {
+    "salesdate": "2026-10-01",
+    "personid": 1,
+    "productid": 2,
+    "customercode": "C201",
+    "salesamount": "40.00"
+  },
+  {
+    "salesdate": "2026-10-01",
+    "personid": 2,
+    "productid": 1,
+    "customercode": "C201",
+    "salesamount": "30.00"
+  },
+  {
+    "salesdate": "2026-10-02",
+    "personid": 1,
+    "productid": 1,
+    "customercode": "C201",
+    "salesamount": "50.00"
+  },
+  {
+    "salesdate": "2026-10-02",
+    "personid": 2,
+    "productid": 2,
+    "customercode": "C202",
+    "salesamount": "89.00"
+  },
+  {
+    "salesdate": "2026-10-03",
+    "personid": 3,
+    "productid": 3,
+    "customercode": "C203",
+    "salesamount": "400.00"
+  },
+  {
+    "salesdate": "2026-10-04",
+    "personid": 4,
+    "productid": 4,
+    "customercode": "C204",
+    "salesamount": "500.00"
+  },
+  {
+    "salesdate": "2026-10-05",
+    "personid": 1,
+    "productid": 2,
+    "customercode": "C205",
+    "salesamount": "700.00"
+  },
+  {
+    "salesdate": "2026-10-06",
+    "personid": 3,
+    "productid": 4,
+    "customercode": "C206",
+    "salesamount": "100.00"
+  },
+  {
+    "salesdate": "2026-10-07",
+    "personid": 2,
+    "productid": 1,
+    "customercode": "C207",
+    "salesamount": "0.00"
+  },
+  {
+    "salesdate": "2026-10-08",
+    "personid": 4,
+    "productid": 4,
+    "customercode": "C208",
+    "salesamount": "1240.00"
+  },
+  {
+    "salesdate": "2026-10-15",
+    "personid": 5,
+    "productid": 2,
+    "customercode": "C209",
+    "salesamount": "200.00"
+  },
+  {
+    "salesdate": "2026-10-16",
+    "personid": 2,
+    "productid": 2,
+    "customercode": "C210",
+    "salesamount": "52.00"
+  },
+  {
+    "salesdate": "2026-10-17",
+    "personid": 3,
+    "productid": 4,
+    "customercode": "C211",
+    "salesamount": "400.00"
+  },
+  {
+    "salesdate": "2026-10-18",
+    "personid": 4,
+    "productid": 5,
+    "customercode": "C212",
+    "salesamount": "500.00"
+  },
+  {
+    "salesdate": "2026-10-19",
+    "personid": 1,
+    "productid": 1,
+    "customercode": "C213",
+    "salesamount": "700.00"
+  },
+  {
+    "salesdate": "2026-10-20",
+    "personid": 5,
+    "productid": 5,
+    "customercode": "C201",
+    "salesamount": "90.00"
+  }
+]
